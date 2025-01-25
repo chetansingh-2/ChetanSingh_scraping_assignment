@@ -43,14 +43,14 @@ I have also tested it on my json, I achieved over 99% accuracy on my scraped pro
 
 2. Pypeeteer is little slow than other code, but multiple strategies can be applied to quick it up.
 
-###  3. I have not used any PROXY service for this project. I have requirements.txt file in this code. By chance if some are missing, I am sorry for that I have checked it while uploading the project, it is running. I did not dockerize it to make it easy to run without much setup
+3. I have not used any PROXY service for this project. I have requirements.txt file in this code. By chance if some are missing, I am sorry for that I have checked it while uploading the project, it is running. I did not dockerize it to make it easy to run without much setup
 
 
 
 
 
 Thanks for reading and evaluating my project.
-I would love to hear any improvements in this
+I would love to hear any improvements or suggestions in this.
 
 thanks again :)
 
